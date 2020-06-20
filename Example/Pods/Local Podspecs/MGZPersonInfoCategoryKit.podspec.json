@@ -1,0 +1,27 @@
+{
+  "name": "MGZPersonInfoCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of MGZPersonInfoCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xiaomazaitu/MGZPersonInfoCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaomazaitu": "18514529291@163.com"
+  },
+  "source": {
+    "git": "https://github.com/xiaomazaitu/MGZPersonInfoCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MGZPersonInfoCategoryKit/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ]
+  }
+}
