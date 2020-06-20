@@ -1,4 +1,5 @@
 # MGZPersonInfoCategoryKit
+<<<<<<< HEAD
 
 [![CI Status](https://img.shields.io/travis/xiaomazaitu/MGZPersonInfoCategoryKit.svg?style=flat)](https://travis-ci.org/xiaomazaitu/MGZPersonInfoCategoryKit)
 [![Version](https://img.shields.io/cocoapods/v/MGZPersonInfoCategoryKit.svg?style=flat)](https://cocoapods.org/pods/MGZPersonInfoCategoryKit)
@@ -27,3 +28,6 @@ xiaomazaitu, 18514529291@163.com
 ## License
 
 MGZPersonInfoCategoryKit is available under the MIT license. See the LICENSE file for more info.
+=======
+组件化测试
+>>>>>>> 2ebb707739384191b8ab9f3e05d998d34f3b11cb
